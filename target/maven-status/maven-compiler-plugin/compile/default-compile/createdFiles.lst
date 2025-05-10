@@ -1,0 +1,6 @@
+com\automoviles\entity\InventarioId.class
+com\automoviles\entity\Venta.class
+com\automoviles\repository\VentaRepository.class
+com\automoviles\repository\InventarioRepository.class
+com\automoviles\entity\Inventario.class
+com\automoviles\SistemaVentasApplication.class
